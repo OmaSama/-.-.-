@@ -1,0 +1,10 @@
+        h1 {
+            text-align: center;
+            background-color: rgb(51, 255, 0);
+        }
+        
+        p {
+            background-size: 2em;
+            background-color: blue;
+            background: none;
+        }
